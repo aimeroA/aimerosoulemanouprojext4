@@ -29,3 +29,6 @@ header{
     cursor: pointer;
     color: black;
 }
+@media (max_width:316px) {
+    background-color: blue;
+}
